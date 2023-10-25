@@ -1,5 +1,6 @@
-a = 684
+a = 168
 b = 1_005
-print(a+b)
+c = 3.5
 
-print(a*b - a**3)
+print(a+b)
+print(a*b - a**c)
